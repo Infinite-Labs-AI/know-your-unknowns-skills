@@ -1,0 +1,49 @@
+{
+  "name": "know-your-unknowns-skills",
+  "version": "0.1.0",
+  "description": "Install the Know Your Unknowns skill pack for Codex and Claude.",
+  "license": "MIT",
+  "type": "module",
+  "bin": {
+    "know-your-unknowns-skills": "./bin/install-skills.mjs",
+    "install-know-your-unknowns-skills": "./bin/install-skills.mjs"
+  },
+  "files": [
+    "bin/",
+    "know-your-unknowns/",
+    "unknowns-blindspot-pass/",
+    "unknowns-buy-in-doc/",
+    "unknowns-design-directions/",
+    "unknowns-domain-bootstrap/",
+    "unknowns-implementation-notes/",
+    "unknowns-intervention-brainstorm/",
+    "unknowns-merge-quiz/",
+    "unknowns-mock-before-wire/",
+    "unknowns-reference-map/",
+    "unknowns-spec-interview/",
+    "unknowns-tweakable-plan/"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Infinite-Labs-AI/know-your-unknowns-skills.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Infinite-Labs-AI/know-your-unknowns-skills/issues"
+  },
+  "homepage": "https://github.com/Infinite-Labs-AI/know-your-unknowns-skills#readme",
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "install-skills": "node ./bin/install-skills.mjs",
+    "test": "node --check ./bin/install-skills.mjs && node ./bin/install-skills.mjs --dry-run"
+  },
+  "keywords": [
+    "codex",
+    "claude",
+    "skills",
+    "ai-agents",
+    "unknowns",
+    "artifacts"
+  ]
+}
