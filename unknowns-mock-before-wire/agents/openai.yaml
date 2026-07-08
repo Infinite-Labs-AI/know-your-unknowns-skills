@@ -1,0 +1,4 @@
+interface:
+  display_name: "Unknowns Mock Before Wire"
+  short_description: "Prototype ambiguous UI before real wiring."
+  default_prompt: "Mock this with fake data before wiring real app code so I can react."

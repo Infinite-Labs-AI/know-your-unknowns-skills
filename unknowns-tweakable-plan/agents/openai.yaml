@@ -1,0 +1,4 @@
+interface:
+  display_name: "Unknowns Tweakable Plan"
+  short_description: "Lead plans with human-changeable decisions."
+  default_prompt: "Write a tweakable plan that leads with the decisions I am most likely to change."

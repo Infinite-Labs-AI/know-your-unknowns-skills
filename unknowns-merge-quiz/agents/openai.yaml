@@ -1,0 +1,4 @@
+interface:
+  display_name: "Unknowns Merge Quiz"
+  short_description: "Quiz understanding before merge."
+  default_prompt: "Give me a merge-readiness report and quiz that proves I understand the diff."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Unknowns Design Directions"
+  short_description: "Create divergent directions for reaction-driven choice."
+  default_prompt: "Show me multiple incompatible directions so I can react, steal, and reject."

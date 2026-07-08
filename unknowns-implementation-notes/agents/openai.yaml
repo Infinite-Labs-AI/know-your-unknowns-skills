@@ -1,0 +1,4 @@
+interface:
+  display_name: "Unknowns Implementation Notes"
+  short_description: "Log deviations and discoveries while building."
+  default_prompt: "Keep implementation notes and log deviations, discoveries, conservative choices, and human calls."

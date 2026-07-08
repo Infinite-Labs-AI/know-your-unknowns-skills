@@ -1,0 +1,4 @@
+interface:
+  display_name: "Unknowns Buy-In Doc"
+  short_description: "Package completed work for stakeholder sign-off."
+  default_prompt: "Package this work into a buy-in doc with demo, evidence, objections, rollout, and named asks."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Unknowns Reference Map"
+  short_description: "Map semantics before porting a reference."
+  default_prompt: "Prove you understood this reference implementation with a semantics map before coding."

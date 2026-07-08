@@ -1,0 +1,4 @@
+interface:
+  display_name: "Unknowns Spec Interview"
+  short_description: "Ask one blast-radius-ranked question at a time."
+  default_prompt: "Interview me one question at a time about the ambiguities that would change architecture."

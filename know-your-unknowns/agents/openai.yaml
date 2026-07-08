@@ -1,0 +1,4 @@
+interface:
+  display_name: "Know Your Unknowns"
+  short_description: "Expose blindspots with reviewable artifacts."
+  default_prompt: "Use know-your-unknowns to route hidden assumptions into the right blindspot, artifact, plan, interview, or quiz workflow."

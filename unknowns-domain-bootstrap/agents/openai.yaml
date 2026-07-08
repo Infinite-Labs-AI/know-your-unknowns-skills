@@ -1,0 +1,4 @@
+interface:
+  display_name: "Unknowns Domain Bootstrap"
+  short_description: "Teach enough vocabulary to ask precise prompts."
+  default_prompt: "Teach me this domain's unknown unknowns so I can prompt with the right vocabulary."

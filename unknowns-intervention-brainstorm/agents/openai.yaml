@@ -1,0 +1,4 @@
+interface:
+  display_name: "Unknowns Intervention Brainstorm"
+  short_description: "Find codebase-grounded intervention options."
+  default_prompt: "Search the codebase and brainstorm interventions from cheapest to most ambitious."

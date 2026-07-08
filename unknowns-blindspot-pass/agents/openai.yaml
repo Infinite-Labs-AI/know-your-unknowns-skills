@@ -1,0 +1,4 @@
+interface:
+  display_name: "Unknowns Blindspot Pass"
+  short_description: "Find hidden traps before touching unfamiliar code."
+  default_prompt: "Run a blindspot pass over this code area and harden the implementation prompt."
